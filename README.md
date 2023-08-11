@@ -2,7 +2,8 @@
 ## Education
 ### Santa Clara University
 - B.S. in Computer Science Emphasizing in Data Science
-- Minor in Mathematics 
+- Minor in Mathematics
+- Graduated Cum Laude
 ## Project 1: [MLB Free Agent Contract Regression](https://github.com/RHendoDS/MLB_FA_Contracts)
 - Web scraping MLB statistics in R
 - Data preprocessing for machine learning in R
