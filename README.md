@@ -5,7 +5,7 @@
 - Minor in Mathematics
 - Graduated Cum Laude
 ## Project 1: [MLB Free Agent Contract Regression](https://github.com/RHendoDS/MLB_FA_Contracts)
-![](https://github.com/RHendoDS/RHendoDS.github.io/blob/main/Batter_Graph.png)
+![](/images/Batter_Graph.png)
 - Web scraping MLB statistics in R
 - Data preprocessing for machine learning in R
 - Regression modeling with automated feature selection in Python
