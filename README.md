@@ -1,8 +1,8 @@
 # Resume Portfolio
 ## Education
 ### Santa Clara University
-B.S. in Computer Science Emphasizing in Data Science
-Minor in Mathematics 
+- B.S. in Computer Science Emphasizing in Data Science
+- Minor in Mathematics 
 ## Project 1: [MLB Free Agent Contract Regression]()
 - Web scraping MLB statistics in R
 - Data preprocessing for machine learning in R
