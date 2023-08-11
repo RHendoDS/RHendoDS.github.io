@@ -1,6 +1,6 @@
 # Education
 ### Santa Clara University
-- B.S. in Computer Science Emphasizing in Data Science
+B.S. in Computer Science Emphasizing in Data Science
 - Minor in Mathematics
 - Graduated Cum Laude
 
