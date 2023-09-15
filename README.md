@@ -16,3 +16,9 @@ B.S. in Computer Science Emphasizing in Data Science
 - Build document keywords using TF-IDF vectorization
 - Build user keywords using TF-IDF and different levels of article interaction
 - Build lists of recommended articles for each individual user
+
+# Project 2: [Flight Delay Analysis](https://github.com/RHendoDS/Flight_Delay_Analysis/tree/main)
+- Random Forest analysis in Python
+- Data munging to build a training set from the FAA public database
+- Use classification method to identify flights that are likely to be delayed
+- Use OOB sampling to train data without making a separate test set
